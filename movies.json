@@ -1,0 +1,39 @@
+{
+	"movies": [
+		{
+			"name": "Fantastic Mr. Fox";
+			"year": "2014";
+			"genre": "Dracedy";
+
+		},
+
+		{
+			"name": "Moonlight";
+			"year": "2016";
+			"genre": "Drama";
+
+		},
+
+		{
+			"name": "Tropic Thunder";
+			"year": "2007";
+			"genre": "Comedy";
+
+		},
+
+		{
+			"name": "The Incredibles";
+			"year": "2001";
+			"genre": "Action";
+
+		},
+
+		{
+			"name": "Megamind";
+			"year": "2012";
+			"genre": "Comedy";
+
+		}
+
+	]
+}
